@@ -2,8 +2,13 @@
 
 Demonstrating below on how to obtain the keywords from news articles.
 
-## Libraries Used:
-Pandas, pickle, re, nltk (stopwords, WordNetLemmatizer), sklearn (train_test_split, TFidFVectorizer, chi2), numpy
+## Dependencies Used:
+- Pandas
+- numpy
+- pickle
+- re
+- nltk (stopwords, WordNetLemmatizer)
+- sklearn (train_test_split, TFidFVectorizer, chi2)
 
 ## Original content:
 
